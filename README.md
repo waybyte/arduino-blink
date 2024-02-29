@@ -1,4 +1,4 @@
-# Logicrom - Arduino Blink example
+# Logicrom OpenCPU SDK - Arduino Blink example
 
 ## How to build
 
